@@ -8,4 +8,4 @@ Automate Making lots of folders!
 •	Add two subfolders<br />
 •	Name them Data and Documents<br />
 •	Make a new folder in Data called Excel<br />
-•	Repeat above nine more times<br />
+•	Repeat above nine n times<br />
