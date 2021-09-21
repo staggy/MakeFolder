@@ -1,6 +1,6 @@
 # MakeFolder
 Automate Making lots of folders!
-
+Specificly tailored for a single client.
 
 
 •	Path: C:\.........\This Week<br />
@@ -8,4 +8,4 @@ Automate Making lots of folders!
 •	Add two subfolders<br />
 •	Name them Data and Documents<br />
 •	Make a new folder in Data called Excel<br />
-•	Repeat above nine n times<br />
+•	Repeat above  n times<br />
